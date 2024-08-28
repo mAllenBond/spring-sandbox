@@ -1,5 +1,11 @@
 # Getting Started
 
+## API GUI URL 
+http://localhost:8080/swagger-ui.html
+
+## API JSON URL 
+http://localhost:8080/api-docs/public
+
 ### Reference Documentation
 
 For further reference, please consider the following sections:
